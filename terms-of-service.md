@@ -56,4 +56,4 @@
 
 本規約に関するご質問がございましたら、以下までご連絡ください。
 
-- GitHub Issues: [推し活手帳リポジトリ](https://github.com/)
+- infra.enge22@gmail.com
