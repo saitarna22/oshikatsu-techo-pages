@@ -55,5 +55,5 @@
 ## お問い合わせ
 
 本規約に関するご質問がございましたら、以下までご連絡ください。
-
-- infra.enge22@gmail.com
+ 
+ infra.enge22@gmail.com
